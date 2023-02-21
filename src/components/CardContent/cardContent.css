@@ -1,0 +1,72 @@
+.content-wrapper {
+    Width: 318px;
+    background-color: #1A1B21;
+    color: #FFFFFF;
+    position: absolute;
+    left: 600px;
+    top: 361px;
+
+}
+
+.name {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 21px;
+}
+
+.subTitle {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.8px;
+    line-height: 15px;
+    text-align: center;
+
+    color: #F3BF99;
+}
+
+.email {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    /* identical to box height, or 15px */
+
+    text-align: center;
+
+    color: #F5F5F5
+}
+.btn-container{
+    display: flex;
+    justify-content: space-around;
+}
+.card-text{
+    text-align: left;
+    padding: 5px 36px;
+}
+.card-title{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+color: #F5F5F5;
+}
+.card-desc{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 150%;
+/* or 15px */
+
+
+color: #DCDCDC;
+}
